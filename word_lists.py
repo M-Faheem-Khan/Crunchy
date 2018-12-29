@@ -1,0 +1,1 @@
+teacher_words = ["teacher","biology","math","science","socialstudies","iloveteaching","gym","class","desk"]
